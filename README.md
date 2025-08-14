@@ -61,7 +61,7 @@ const induwara = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=induwara-dissanayake&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=induwara-dissanayake&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=induwara-dissanayake&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
@@ -71,14 +71,6 @@ const induwara = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=induwara-dissanayake&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=induwara-dissanayake&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%"/>
 </div>
 
 ---
@@ -121,4 +113,3 @@ const induwara = {
 Thanks for visiting my profile! Have a great day! 😊
 
 </div>
-
